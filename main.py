@@ -80,7 +80,7 @@ elif Grade3 == "F":
 else:
    GP3 = 0.0
 try:
-  Credit3 = float(input("Enter your course 3 credit:"))
+  Credit3 = float(input("Enter your course 3 credit: "))
 except:
   GP3 = 0.0
   Credit3 = 0.0
