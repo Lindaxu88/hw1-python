@@ -87,4 +87,4 @@ except:
 print(f"Grade point for course 3 is: {GP3}")
 
 GPA = ((GP * Credit1) + (GP2 * Credit2) + (GP3 * Credit3)) / (Credit1 + Credit2 + Credit3)
-print(f"Your GPA is:{GPA}")
+print(f"Your GPA is: {GPA}")
