@@ -28,7 +28,7 @@ try:
 except:
   GP = 0.0
   Credit1 = 0.0
-print(f"Grade point for course 1 is：{GP}")
+print(f"Grade point for course 1 is: {GP}")
 
 Grade2 = input("Enter your course 2 letter grade: ")
 if Grade2 == "A":
